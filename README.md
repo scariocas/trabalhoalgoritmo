@@ -1,5 +1,4 @@
-# trabalhoalgoritmo
-Trabalho de algoritmos - Faculdade
+Mariana Bernardes.
 
 # Principais Decisões de Design
 Hierarquia de Classes para Elementos
@@ -53,3 +52,4 @@ Encadeada:
 -percursos, O(n), Visita todos os nós.
 
 h=altura da árvore.
+
